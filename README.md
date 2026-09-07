@@ -1,8 +1,3 @@
-Here is a clean, modern, and comprehensive `README.md` file tailored for your JavaScript Rock-Paper-Scissors project.
-
----
-
-```markdown
 # ✊🖐✌️ Rock-Paper-Scissors JS
 
 A lightweight, interactive Rock-Paper-Scissors game built using vanilla JavaScript, HTML5, and CSS3. Play against the computer, track your score, and try to maintain a winning streak!
@@ -36,16 +31,13 @@ No special installation or local server is required! You only need a modern web 
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)
 
-```
 
 2. **Navigate to the project directory:**
-```bash
+
 cd rock-paper-scissors-js
 
-```
 
 
 3. **Run the game:**
