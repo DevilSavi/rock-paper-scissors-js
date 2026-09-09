@@ -22,6 +22,12 @@ A lightweight, interactive Rock-Paper-Scissors game built using vanilla JavaScri
 
 ---
 
+## 🚀 Screenshots
+
+>   ![Project Preview](./images/preview.png)
+
+---
+
 ## 💻 Getting Started
 
 ### Prerequisites
@@ -31,37 +37,44 @@ No special installation or local server is required! You only need a modern web 
 ### Installation
 
 1. **Clone the repository:**
-   git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)
+  git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)
 
 
 2. **Navigate to the project directory:**
-
-cd rock-paper-scissors-js
-
-
+  ``cd rock-paper-scissors-js``
 
 3. **Run the game:**
-Open `rock-paper-scissors.html` directly in your browser, or use an extension like **Live Server** in VS Code.
+  Open `rock-paper-scissors.html` directly in your browser, or use an extension like **Live Server** in VS Code.
 
 ---
 
 ## 🎮 How to Play
 
-1. **Make a Move:** Click on one of the action buttons—**Rock**, **Paper**, or **Scissors**—or use the corresponding keys on your keyboard:
-* Press `R` for **Rock**
-* Press `P` for **Paper**
-* Press `S` for **Scissors**
-
+1. **Make a Move:** Click on one of the action buttons—**Rock**, **Paper**, or **Scissors**.
 
 2. **Rules:**
 * **Rock** beats Scissors
 * **Paper** beats Rock
 * **Scissors** beats Paper
 
-
 3. **Score:** View your updated score and round outcome instantly on the screen.
 4. **Auto Play:** Click the **Auto Play** button to sit back and watch the computer battle itself!
 5. **Reset:** Click **Reset Score** to set all stats back to zero.
+
+---
+
+## 🕹️ Shortcut Keys
+
+| Action | Key / Control |
+|---|---|
+| Rock | R |
+| Paper | P |
+| Scissors | S |
+| Auto play | A |
+| Stop (Auto play) | A |
+| Reset Score | Backspace |
+| Yes (Reset Score) | Y |
+| No (Reset Score) | N |
 
 ---
 
@@ -72,7 +85,8 @@ rock-paper-scissors-js/
 │
 ├── rock-paper-scissors.html     # Main HTML structure
 ├── style.css                    # Styles and layouts
-├── script.js                    # Core game logic & event handlers
+├── script.js                    # Core game logic & event 
+|
 ├── images/                      # Game icons and assets
 └── README.md                    # Project documentation
 
@@ -84,8 +98,5 @@ rock-paper-scissors-js/
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-```
-
-<FollowUp label="Would you like me to add code snippets for score reset or keyboard shortcut implementations?" query="Can you provide the JavaScript code snippets for implementing the score reset with localStorage and keyboard shortcuts?"/>
-
-```
+> Copyright © Savindu Nethmika. 
+> All Right Reserved.
