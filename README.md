@@ -41,7 +41,7 @@ cd rock-paper-scissors-js
 
 
 3. **Run the game:**
-Open `index.html` directly in your browser, or use an extension like **Live Server** in VS Code.
+Open `rock-paper-scissors.html` directly in your browser, or use an extension like **Live Server** in VS Code.
 
 ---
 
@@ -70,11 +70,11 @@ Open `index.html` directly in your browser, or use an extension like **Live Serv
 ```
 rock-paper-scissors-js/
 │
-├── index.html          # Main HTML structure
-├── style.css           # Styles and layouts
-├── script.js           # Core game logic & event handlers
-├── images/             # Game icons and assets
-└── README.md           # Project documentation
+├── rock-paper-scissors.html     # Main HTML structure
+├── style.css                    # Styles and layouts
+├── script.js                    # Core game logic & event handlers
+├── images/                      # Game icons and assets
+└── README.md                    # Project documentation
 
 ```
 
