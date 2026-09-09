@@ -37,7 +37,7 @@ No special installation or local server is required! You only need a modern web 
 ### Installation
 
 1. **Clone the repository:**
-  git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)
+  `git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)`
 
 
 2. **Navigate to the project directory:**
