@@ -1,6 +1,11 @@
 # ✊🖐✌️ Rock-Paper-Scissors JS
 
-A lightweight, interactive Rock-Paper-Scissors game built using vanilla JavaScript, HTML5, and CSS3. Play against the computer, track your score, and try to maintain a winning streak!
+> A lightweight, interactive Rock-Paper-Scissors game built using vanilla JavaScript,HTML5, and CSS3. Play against the computer, track your score, and try to maintain a winning streak!
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
