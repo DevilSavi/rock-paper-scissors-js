@@ -37,14 +37,15 @@ No special installation or local server is required! You only need a modern web 
 ### Installation
 
 1. **Clone the repository:**
-  `git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)`
-
+    ```bash
+    git clone [https://github.com/DevilSavi/rock-paper-scissors-js.git](https://github.com/DevilSavi/rock-paper-scissors-js.git)
 
 2. **Navigate to the project directory:**
-  ``cd rock-paper-scissors-js``
+    ```bash
+    cd rock-paper-scissors-js
 
 3. **Run the game:**
-  Open `rock-paper-scissors.html` directly in your browser, or use an extension like **Live Server** in VS Code.
+    Open `rock-paper-scissors.html` directly in your browser, or use an extension like **Live Server** in VS Code.
 
 ---
 
@@ -67,14 +68,14 @@ No special installation or local server is required! You only need a modern web 
 
 | Action | Key / Control |
 |---|---|
-| Rock | R |
-| Paper | P |
-| Scissors | S |
-| Auto play | A |
-| Stop (Auto play) | A |
-| Reset Score | Backspace |
-| Yes (Reset Score) | Y |
-| No (Reset Score) | N |
+| Rock | **`R`** |
+| Paper | **`P`** |
+| Scissors | **`S`** |
+| Auto play | **`A`** |
+| Stop (Auto play) | **`A`** |
+| Reset Score | **`Backspace`** |
+| Yes (Reset Score) | **`Y`** |
+| No (Reset Score) | **`N`** |
 
 ---
 
